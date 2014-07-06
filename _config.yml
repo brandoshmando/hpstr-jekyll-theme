@@ -9,13 +9,13 @@ url:              http://localhost:4000
 # Owner/author information
 owner:
   name:           Brandon Craft
-  avatar:         2014_00078.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  avatar:         me.jpg
+  bio:            "Heart is in the mountains // Roots are in the Midwest // Full Stack Dev"
   email:          brancraft@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter: https://twitter.com/BrandoCraft
+  twitter: BrandoCraft
   facebook:
-  github: https://github.com/brandoshmando
+  github: brandoshmando
   stackexchange:
   linkedin:
   instagram:
