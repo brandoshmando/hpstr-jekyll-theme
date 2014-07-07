@@ -11,7 +11,7 @@ share: true
 
 ***
 
-I won't bore you with details about my work experience. You can check out my website to see some samples, or my [linkedin account](https://www.linkedin.com/in/brancraft) for the nitty gritty details of my past work. Instead, a little bit more about myself...
+I won't bore you with details about my work experience. You can check out my <a href="http://brandocraft.com/about" id="website-link" >website</a> to see some samples, or my [linkedin account](https://www.linkedin.com/in/brancraft) for the nitty gritty details of my past work. Instead, a little bit more about myself...
 
 I'm a product of the Midwest who fled to the mountains of the Wasatch front to ensure that my class schedule at the University of Utah was balanced with my skiing schedule. In addition to skiing and hiking, I also enjoy golf the 'lake lifestyle' during the summer. Just like every other human being, I like good food and like to think I'm a beer snob, though who can resist a cold Coors Lite?
 
