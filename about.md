@@ -17,7 +17,7 @@ I'm a product of the Midwest who fled to the mountains of the Wasatch front to e
 
 I'm also a junior, full stack ruby developer and have experience with Javascript, jQuery, and Ajax. I learned my craft through both self study and [Bitmaker Lab's](http://bitmakerlabs.com) web development bootcamp.
 
-Wear. Sunscreen.
+Oh, and Wear. Sunscreen.
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/sTJ7AzBIJoI" frameborder="0" allowfullscreen></iframe>
 ***
